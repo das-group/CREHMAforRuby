@@ -20,7 +20,8 @@ The appended Signature header is marked in bold. CREHMA are compatible  with cac
 ```
 The signature freshness is valid, if the sum is lower or equal then/to the current time.
 
-For more information please read our corresponding paper: 
+For more information please read our corresponding paper:
+https://doi.org/10.1145/3374664.3375750
 
 # How does it works?
 
